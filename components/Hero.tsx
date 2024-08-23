@@ -68,12 +68,12 @@ const Hero = () => {
         />
       </div>
 
-      <div className="flex justify-center relative mt-[40px] mb-20 z-10">
+      <div className="flex justify-center relative mt-[40px] md:mt-[45px] mb-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[70vw] flex flex-col items-center justify-center">
           {/* <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-90">
             Dynamic Web Magic with Next.js
           </p> */}
-          <div className="w-[8rem] h-[8rem] rounded-full mb-[1.5rem] md:mt-0 animate-pulse">
+          <div className="w-[8rem] h-[8rem] rounded-full mb-[1.5rem] animate-pulse">
             <Image
               src={userImg}
               alt="userImg"

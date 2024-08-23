@@ -109,7 +109,7 @@ export const Frontend_skill = [
   },
   {
     skill_name: "Java Script",
-    Image: "/javascript.svg",
+    Image: "/Javascript.svg",
     width: 65,
     height: 65,
   },

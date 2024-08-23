@@ -81,6 +81,11 @@ const config = {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
+      textShadow: {
+        black: "2px 2px 4px rgba(0, 0, 0, 0.75)",
+        md: "3px 3px 6px rgba(0, 0, 0, 0.75)",
+        lg: "4px 4px 8px rgba(0, 0, 0, 0.75)",
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
@@ -164,6 +169,7 @@ const config = {
   },
   plugins: [
     require("tailwindcss-animate"),
+    require("tailwindcss-textshadow"),
     addVariablesForColors,
     function ({ matchUtilities, theme }: any) {
       matchUtilities(
