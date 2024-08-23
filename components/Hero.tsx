@@ -73,7 +73,7 @@ const Hero = () => {
           {/* <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-90">
             Dynamic Web Magic with Next.js
           </p> */}
-          <div className="w-[8rem] h-[8rem] rounded-full mb-[1.5rem] mt-[1rem] md:mt-0 animate-pulse">
+          <div className="w-[8rem] h-[8rem] rounded-full mb-[1.5rem] md:mt-0 animate-pulse">
             <Image
               src={userImg}
               alt="userImg"
@@ -89,7 +89,7 @@ const Hero = () => {
            */}
           <TextGenerateEffect
             words={text}
-            className="text-center text-2xl md:text-3xl lg:text-4xl lg:text-[43px] font-[650]"
+            className="text-center text-3xl text-[26px] md:text-3xl lg:text-4xl lg:text-[43px] font-[650]"
           />
 
           <p className="text-center md:tracking-wider md:mb-4 mb-[2.5rem] md:mt-1 mt-[0.5rem] opacity-95 text-sm md:text-lg lg:text-2xl">
