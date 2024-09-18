@@ -98,7 +98,10 @@ const Hero = () => {
           <div className="flex flex-col md:flex-row md:gap-[1rem] gap-[1.5rem] items-baseline">
             <div className="flex gap-[1rem] items-baseline">
               <div>
-                <a href="https://drive.google.com/file/d/1-VeTkn3kKemiwfWNIYoHtLn_Yj0ViR08/view?usp=drivesdk">
+                <a
+                  href="https://drive.google.com/file/d/17hQarqXRnr2klsZlRL9HY3C6ATIImyZK/view?usp=sharing"
+                  target="_blank"
+                >
                   <MagicButton
                     title="Download CV"
                     icon={<IoDownloadOutline />}
@@ -106,7 +109,7 @@ const Hero = () => {
                   />
                 </a>
               </div>
-              <a href="mailto:webmaster@example.com">
+              <a href="mailto:abhijeetgupta989@gmail.com" target="_blank">
                 <MagicButton
                   title="Contact Me"
                   icon={<FaLocationArrow />}
@@ -115,12 +118,15 @@ const Hero = () => {
               </a>
             </div>
             <div className="flex items-baseline gap-[1rem] w-full justify-center">
-              <a href="http://www.linkedin.com/in/abhijeet-gupta-0074a922b">
+              <a
+                href="http://www.linkedin.com/in/abhijeet-gupta-0074a922b"
+                target="_blank"
+              >
                 <div className="h-[3rem] w-[3rem] flex items-center justify-center rounded-full border-opacity-90 border-white border-2">
                   <FaLinkedinIn />
                 </div>
               </a>
-              <a href="http://github.com/auraticabhi">
+              <a href="http://github.com/auraticabhi" target="_blank">
                 <div className="h-[3rem] w-[3rem] flex items-center justify-center rounded-full border-opacity-90 border-white border-2">
                   <FaGithub />
                 </div>
