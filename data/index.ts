@@ -11,7 +11,7 @@ export const gridItems = [
   {
     id: 1,
     title:
-      "As a Full Stack developer with strong background in building effecient and scalable full stack applications through MERN, I am on a mission to turn ideas into reality through code.",
+      "As a Full Stack developer with strong background in building effecient and scalable full stack applications using latest technologies, I am on a mission to turn ideas into reality through code.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -77,9 +77,9 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "StudyNotion: An Ed-Tech Platform",
-    des: "A full-fledged edtech platform for creating, consuming, & rating edu. content.",
-    img: "/studynotion.png",
+    title: " Studyonic- Cloud-Native Ed-Tech Platform",
+    des: "A scalable production-grade edtech platform for creating, consuming, & rating edu. content.",
+    img: "/Studyonic.png",
     iconLists: [
       "/re.svg",
       "/Express.png",
@@ -87,11 +87,26 @@ export const projects = [
       "/NodeJs.svg",
       "/MongoDB.svg",
     ],
-    link: "https://study-notion-abhixcodes.vercel.app/",
-    github: "https://github.com/auraticabhi/StudyNotion-mernapp",
+    link: "http://56.228.25.38/",
+    github: "https://github.com/auraticabhi/Studyonic",
   },
   {
     id: 2,
+    title: "PairFusion: A realtime collaborative code editor",
+    des: "A real-time, scalable and feature-rich IDE built for modern development team",
+    img: "/PairFusion.png",
+    iconLists: [
+      "/re.svg",
+      "/Express.png",
+      "/tail.svg",
+      "/NodeJs.svg",
+      "/Docker.svg",
+    ],
+    link: "https://pair-fusion.vercel.app/",
+    github: "https://github.com/auraticabhi/PairFusion",
+  },
+  {
+    id: 3,
     title: "VlogVerse: Video/Audio to Blog Post converter ai SAAS platform",
     des: "An ai SAAS platfrom that can convert your voice into SEO friendly blog posts.",
     img: "/vlogverse.png",
@@ -106,7 +121,7 @@ export const projects = [
     github: "https://github.com/auraticabhi/VlogVerse",
   },
   {
-    id: 3,
+    id: 4,
     title: "Wordly: Your Document Chatbot",
     des: "Wordly allows you to have conversations with your PDF files.",
     img: "/wordlyhp.png",
@@ -120,21 +135,21 @@ export const projects = [
     link: "https://wordly-jet.vercel.app/",
     github: "https://github.com/auraticabhi/Wordly",
   },
-  {
-    id: 4,
-    title: "SnapLink: Social Media Website",
-    des: "A dynamic platform enabling users to share & connect with people worldwide.",
-    img: "/snaplink.png",
-    iconLists: [
-      "/re.svg",
-      "/Redux.svg",
-      "/express.png",
-      "/MaterialUI.svg",
-      "/MongoDB.svg",
-    ],
-    link: "https://snaplink-abhixcodes.vercel.app/",
-    github: "https://github.com/auraticabhi/SnapLink",
-  },
+  // {
+  //   id: 5,
+  //   title: "SnapLink: Social Media Website",
+  //   des: "A dynamic platform enabling users to share & connect with people worldwide.",
+  //   img: "/snaplink.png",
+  //   iconLists: [
+  //     "/re.svg",
+  //     "/Redux.svg",
+  //     "/express.png",
+  //     "/MaterialUI.svg",
+  //     "/MongoDB.svg",
+  //   ],
+  //   link: "https://snaplink-abhixcodes.vercel.app/",
+  //   github: "https://github.com/auraticabhi/SnapLink",
+  // },
 ];
 
 export const testimonials = [

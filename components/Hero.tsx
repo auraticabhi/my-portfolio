@@ -99,7 +99,7 @@ const Hero = () => {
             <div className="flex gap-[1rem] items-baseline">
               <div>
                 <a
-                  href="https://drive.google.com/file/d/17hQarqXRnr2klsZlRL9HY3C6ATIImyZK/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1ZYHYvrrbbXTlPxQANm2Y27JIE4TGsPNJ/view?usp=drivesdk"
                   target="_blank"
                 >
                   <MagicButton
@@ -119,7 +119,7 @@ const Hero = () => {
             </div>
             <div className="flex items-baseline gap-[1rem] w-full justify-center">
               <a
-                href="http://www.linkedin.com/in/abhijeet-gupta-0074a922b"
+                href="https://www.linkedin.com/in/abhijeet-gupta-0074a922b"
                 target="_blank"
               >
                 <div className="h-[3rem] w-[3rem] flex items-center justify-center rounded-full border-opacity-90 border-white border-2">
