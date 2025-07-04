@@ -93,13 +93,13 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider md:mb-4 mb-[42px] md:mt-1 mt-[0.5rem] opacity-95 text-sm md:text-lg lg:text-2xl">
-            I&apos;m a full stack developer based in India.
+            I&apos;m a software developer based in India.
           </p>
           <div className="flex flex-col md:flex-row md:gap-[1rem] gap-[1.5rem] items-baseline">
             <div className="flex gap-[1rem] items-baseline">
               <div>
                 <a
-                  href="https://drive.google.com/file/d/1ZYHYvrrbbXTlPxQANm2Y27JIE4TGsPNJ/view?usp=drivesdk"
+                  href="https://drive.google.com/file/d/1aZtqyh4Ye8AFK3UESueCh7AE2x18h7L0/view?usp=drivesdk"
                   target="_blank"
                 >
                   <MagicButton

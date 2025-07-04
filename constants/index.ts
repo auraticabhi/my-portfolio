@@ -201,10 +201,61 @@ export const Backend_skill = [
     height: 70,
   },
   {
-    skill_name: "Rest APIs",
-    Image: "/restapis.png",
+    skill_name: "Kafka",
+    Image: "/kafka.png",
     width: 70,
     height: 70,
+  },
+  {
+    skill_name: "Redis",
+    Image: "/redis.png",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "Socket.IO",
+    Image: "/socketio.png",
+    width: 75,
+    height: 75,
+  },
+];
+
+export const Devops_and_cloud = [
+  {
+    skill_name: "Git",
+    Image: "/gitr.png",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "GitHub",
+    Image: "/git.svg",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "Docker",
+    Image: "/Docker.svg",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "AWS",
+    Image: "/awswhite.png",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "Google Cloud",
+    Image: "/googlecloud.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Cloudflare",
+    Image: "/cloudflare.png",
+    width: 80,
+    height: 80,
   },
 ];
 
@@ -238,9 +289,9 @@ export const Languages = [
 
 export const Other_skill = [
   {
-    skill_name: "Socket.IO",
-    Image: "/socketio.png",
-    width: 69,
-    height: 69,
+    skill_name: "Postman",
+    Image: "/postman.svg",
+    width: 60,
+    height: 60,
   },
 ];

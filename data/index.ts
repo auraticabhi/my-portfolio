@@ -11,7 +11,7 @@ export const gridItems = [
   {
     id: 1,
     title:
-      "As a Full Stack developer with strong background in building effecient and scalable full stack applications using latest technologies, I am on a mission to turn ideas into reality through code.",
+      "As a software developer with strong background in building effecient & scalable full stack applications using latest technologies, I am on a mission to turn ideas into reality through code.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -77,30 +77,30 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: " Studyonic- Cloud-Native Ed-Tech Platform",
-    des: "A scalable production-grade edtech platform for creating, consuming, & rating edu. content.",
+    title: " Studyonic: Cloud-Native Ed-Tech",
+    des: "A scalable production-grade edtech platform for creating & consuming edu. content.",
     img: "/Studyonic.png",
     iconLists: [
       "/re.svg",
       "/Express.png",
-      "/tail.svg",
-      "/NodeJs.svg",
-      "/MongoDB.svg",
+      "/kafka.png",
+      "/redis.png",
+      "/awswhite.png",
     ],
     link: "http://56.228.25.38/",
     github: "https://github.com/auraticabhi/Studyonic",
   },
   {
     id: 2,
-    title: "PairFusion: A realtime collaborative code editor",
+    title: "PairFusion: Collaborative IDE 🌐",
     des: "A real-time, scalable and feature-rich IDE built for modern development team",
     img: "/PairFusion.png",
     iconLists: [
       "/re.svg",
-      "/Express.png",
-      "/tail.svg",
-      "/NodeJs.svg",
+      "/socketio.png",
+      "/redis.png",
       "/Docker.svg",
+      "googlecloud.png",
     ],
     link: "https://pair-fusion.vercel.app/",
     github: "https://github.com/auraticabhi/PairFusion",

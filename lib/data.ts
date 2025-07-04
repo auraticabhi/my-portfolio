@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Diving into Technology",
     location: "",
     description:
-      "During this period, I deepened my interest in technology, learning new tools and frameworks such as React, Next.js, Express, etc. Along with development i also developed my interest in fundamental concepts in CS at this point and solved over 350+ DSA problems.",
+      "During this period, I deepened my interest in technology, learning new tools and frameworks such as React, Next.js, Express, etc. Along with development i also developed my interest in fundamental concepts in CS at this point and solved over 400+ DSA problems.",
     icon: React.createElement(FaReact),
     date: "2021 - 2023",
   },
