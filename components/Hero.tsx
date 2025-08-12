@@ -126,7 +126,7 @@ const Hero = () => {
                   <FaLinkedinIn />
                 </div>
               </a>
-              <a href="http://github.com/auraticabhi" target="_blank">
+              <a href="https://github.com/auraticabhi" target="_blank">
                 <div className="h-[3rem] w-[3rem] flex items-center justify-center rounded-full border-opacity-90 border-white border-2">
                   <FaGithub />
                 </div>

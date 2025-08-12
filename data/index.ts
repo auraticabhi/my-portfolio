@@ -87,7 +87,7 @@ export const projects = [
       "/redis.png",
       "/awswhite.png",
     ],
-    link: "http://56.228.25.38/",
+    link: "https://studyonic.site/",
     github: "https://github.com/auraticabhi/Studyonic",
   },
   {
